@@ -1,0 +1,17 @@
+#Sun May 03 10:19:58 CEST 2015
+TexMinFilB=0
+shadowResMul=1.0
+tweakBlockDamage=false
+TexMagFilB=0
+handDepthMul=0.125
+oldLighting=false
+shaderPack=Chocapic13 V5 Lite.zip
+TexMinFilS=0
+renderResMul=1.0
+TexMagFilS=0
+TexMinFilN=0
+shadowClipFrustrum=true
+TexMagFilN=0
+cloudShadow=false
+normalMapEnabled=true
+specularMapEnabled=true

@@ -1,0 +1,11 @@
+data/asm
+data/logs
+data/saves
+data/bendspacks
+data/blueprints
+data/resourcepacks
+data/scripts
+Modpack Launcher.pdb
+Modpack Launcher.exe.config
+*.log
+data/mods/VoxelMods/voxelMap/cache
