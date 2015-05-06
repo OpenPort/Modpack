@@ -8,4 +8,6 @@ data/scripts
 Modpack Launcher.pdb
 Modpack Launcher.exe.config
 *.log
-data/mods/VoxelMods/voxelMap/cache
+data/mods/VoxelMods/voxelMap
+data/stencil*.png
+data/usernamecache.json
