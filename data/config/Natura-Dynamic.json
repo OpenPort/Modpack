@@ -12,6 +12,9 @@
     },
     "Natura NEI Compatibility": {
       "enabled": true
+    },
+    "Natura FMP Compatibility": {
+      "enabled": true
     }
   }
 }

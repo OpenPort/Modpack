@@ -11,3 +11,5 @@ Modpack Launcher.exe.config
 data/mods/VoxelMods/voxelMap
 data/stencil*.png
 data/usernamecache.json
+data/crash-reports
+data/assets/skins

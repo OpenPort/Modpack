@@ -88,7 +88,7 @@ key_key.hotbar.9:10
 key_Zoom:29
 key_ALT Key:56
 key_Boost Key:29
-key_Mode Switch Key:50
+key_Mode Switch Key:11
 key_Side Inventory Key:46
 key_Hub Expand Key:45
 key_key.archimedes.up:45
@@ -97,7 +97,7 @@ key_key.archimedes.brake:46
 key_key.archimedes.align:13
 key_key.archimedes.decompile:43
 key_key.archimedes.shipinv:37
-key_Gravi Fly Key:33
+key_Gravi Fly Key:36
 key_Gravi Display Hud:35
 key_Mo'Bends Menu:34
 key_key.dragon.flyUp:19
@@ -106,14 +106,21 @@ key_Dynamic Lights toggle:38
 key_Speak:47
 key_Gliby's Options Menu:52
 key_invtweaks.key.sort:19
+key_key.tarmor:24
+key_key.tgoggles:34
+key_key.tbelt:48
+key_key.tzoom:44
 key_key.primitivemobs.desc:38
+key_key.betterfoliage.gui:66
 key_key.cofh.empower:47
 key_key.cofh.multimode:46
+key_key.control:29
 key_key.minimap.voxelmapmenu:50
 key_key.minimap.waypointhotkey:48
 key_key.minimap.zoom:44
 key_key.minimap.togglefullscreen:45
 key_key.minimap.togglemobs:0
+key_VoxelMods Config:0
 soundCategory_master:1.0
 soundCategory_music:0.0
 soundCategory_record:1.0
