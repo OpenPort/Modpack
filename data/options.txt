@@ -119,7 +119,6 @@ key_key.minimap.waypointhotkey:48
 key_key.minimap.zoom:44
 key_key.minimap.togglefullscreen:45
 key_key.minimap.togglemobs:0
-key_VoxelMods Config:0
 soundCategory_master:1.0
 soundCategory_music:0.0
 soundCategory_record:1.0
